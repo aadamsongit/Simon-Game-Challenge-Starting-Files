@@ -5,6 +5,8 @@ I was able to figure out quite a bit of this one independently, though there wer
 I left parts of my old code as pseudocode to reflect my thought processes as I was puzzling through this one. Overall, I had a lot of fun.
 
 The one thing is, I created three gameOver functions, which was probably the long (if easier) way to call the functions. Maybe I should've refactored. But I really
-wanted to push the project to Github for my portfolio, and hey, it works! Have fun playing it!
+wanted to push the project to Github for my portfolio, and hey, it works! 
+
+I most likely am not going to deploy this project, as it's not a full stack project, so if you want to see and play the game, here's the App Brewery version: https://londonappbrewery.github.io/Simon-Game/
 
 -Amber
